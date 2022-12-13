@@ -1,8 +1,87 @@
-## Your Name
+<div align="center">
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+# Pauline Davis
 
-## Projects
+ [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) 
+ </div>
+
+Hiya! I'm Pauline and I am a [Makers Academy!](https://makers.tech/)grad(Sept '22 intake)
+
+Creating and developing software was never something that I thought would be in my wheel house. However, with lots of hard work I'm inspired to create software that is functional and helps people daily. I am in awe of the posibilities of software engineering to change the everyday and make the impossible possible, This is one of the reasons that I push myself to learn more programming everyday.
+
+I enjoy developing and this is the main reason I am pursuing this career path because I am a committed life long learner. This challenge of self study, courses and attending conferences and tech events and meetups is exciting to me
+
+## :a_shout Discord & Slack Emoji:Tech Skills
+
+
+ <table>
+   <thead>
+     <tr>
+       <th>Languages</th>
+       <th>Technologies</th>
+       <th>Testing Frameworks</th>
+       <th>Concepts</th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr VALIGN=TOP>
+       <td>
+         <ul>
+           <li>JavaScript</li>
+           <li>React</li>
+           <li>Ruby</li>
+           <li>HTML</li>
+           <li>CSS</li>
+         </ul>
+       </td>
+       <td>
+         <ul>
+           <li>Node.js</li>
+           <li>React</li>
+           <li>Express</li>
+           <li>MongoDB</li>
+           <li>PostgreSQL</li>
+           <li>Sinatra</li>
+           <li>Git</li>
+         </ul>
+       </td>
+       <td>
+         <ul>
+           <li>React Testing Library</li>
+           <li>Jest</li>
+           <li>Cypress</li>
+           <li>IRB</li>
+           <li>Rspec</li>
+           <li>Capybara</li>
+         </ul>
+       </td>
+       <td>
+         <ul>
+           <li>Test Driven Development</li>
+           <li>Object Oriented Design</li>
+           <li>Pair Programming</li>
+           <li>MERN Stack</li>
+           <li>XP/Agile methodology</li>
+           <li>SOLID Principles</li>
+           <li>RESTful APIs</li>
+           <li>Git Workflow</li>
+           <li>Code Review</li>
+           <li>Code Visibility</li>
+           <li>Remote Working</li>
+           <li>Debugging Practices</li>
+         </ul>
+       </td>
+     </tr>
+   </tbody>
+ </table>
+
+
+
+
+
+
+
+## https://emoji.gg/emoji/2953-a-deku Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
