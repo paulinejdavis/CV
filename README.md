@@ -2,7 +2,7 @@
 
 # Pauline Davis
 
- [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) | [![Codewars]](https:https://www.codewars.com/users/ppjd
+ [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) | [![Codewars]](https:https://www.codewars.com/users/ppjd/)
  </div>
 
 Hiya! I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '22 intake)
