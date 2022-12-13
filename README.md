@@ -2,7 +2,7 @@
 
 # Pauline Davis
 
- [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) 
+ [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) | [![Codewars]](https:https://www.codewars.com/users/ppjd
  </div>
 
 Hiya! I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '22 intake)
@@ -159,3 +159,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
  <!-- Badge Links -->
  [LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+ [Codewars]: https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
