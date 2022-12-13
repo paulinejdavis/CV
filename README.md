@@ -2,7 +2,7 @@
 
 # Pauline Davis
 
- [![LinkedIn]](https://www.linkedin.com/mwlite/in/paulinedavis/) 
+ [[LinkedIn]!](https://www.linkedin.com/mwlite/in/paulinedavis/) 
  </div>
 
 Hiya! I'm Pauline and I am a [Makers Academy!](https://makers.tech/)grad(Sept '22 intake)
@@ -76,18 +76,13 @@ I enjoy developing and this is the main reason I am pursuing this career path be
    </tbody>
  </table>
 
-
-
-
-
-
-
 ## :https://emoji.gg/emoji/2953-a-deku :Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name     | Description | Technologies|
+ |---       |---          |---          |
+ | [Friendzone](https://github.com/paulinejdavis/MERNsters-inc) | A social media webapp to help people make new friends. | JavaScript, Node.js, Express, React, MongoDB, HTML5, CSS3, Cypress, Jest |
+ | [SpyBook](https://github.com/paulinejdavis/acebook-the-incredibles) | A Facebook clone using Node, Express, MongoDB in a week | JavaScript, Node.js, Express, HTML5, CSS3, Jest, Mongo, Cypress |
+ | [MakersBnB](link missing)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL |
 
 ## Work Experience
 
