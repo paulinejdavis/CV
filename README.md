@@ -2,10 +2,10 @@
 
 # Pauline Davis
 
- [[LinkedIn]!](https://www.linkedin.com/mwlite/in/paulinedavis/) 
+ [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) 
  </div>
 
-Hiya! I'm Pauline and I am a [Makers Academy!](https://makers.tech/)grad(Sept '22 intake)
+Hiya! I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '22 intake)
 
 Creating and developing software was never something that I thought would be in my wheel house. However, with lots of hard work I'm inspired to create software that is functional and helps people daily. I am in awe of the posibilities of software engineering to change the everyday and make the impossible possible, This is one of the reasons that I push myself to learn more programming everyday.
 
@@ -76,7 +76,7 @@ I enjoy developing and this is the main reason I am pursuing this career path be
    </tbody>
  </table>
 
-## :https://emoji.gg/emoji/2953-a-deku :Projects
+## :grinning: Projects
 
 | Name     | Description | Technologies|
  |---       |---          |---          |
@@ -84,17 +84,7 @@ I enjoy developing and this is the main reason I am pursuing this career path be
  | [SpyBook](https://github.com/paulinejdavis/acebook-the-incredibles) | A Facebook clone using Node, Express, MongoDB in a week | JavaScript, Node.js, Express, HTML5, CSS3, Jest, Mongo, Cypress |
  | [MakersBnB](link missing)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL |
 
-## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -126,6 +116,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Experience
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience, including roles and responsibilities and results achived in bullet point format.
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
@@ -149,4 +151,11 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- **Zumba**: A newfound hobby but really loving it. 
+ - **Films**: Love all things cinema including foreign films
+ - **Gym time**: I love working out and try to do so everyday
+ - **Travel**: Like everyone I love travelling in any capacity.
+ - **Foodie**: Love discovering new dishes and restaurants
+
+ <!-- Badge Links -->
+ [LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
