@@ -1,6 +1,6 @@
 <div align="center">
 
-## Pauline Davis
+# Pauline Davis
 
  [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) 
  </div>
@@ -90,15 +90,15 @@ I enjoy developing and this is the main reason I am pursuing this career path be
 
 ### Strong communicator
 
-** Started and sold a cosmetic business at a profit in Notting Hill
-** Attend meetup and networking events weekly to build my software network
-**
+- Started and sold a cosmetic business at a profit in Notting Hill
+- Attend meetup and networking events weekly to build my software network
+
 
 ### Experienced project manager
 
-** As a new business manager for a top 100 advertising company, attended networking events and organised end of projects events to keep employees up to date on company triumphs and losses
-** Attend meetup and networking events weekly to build my software network
-** - Brought new business leads to the ad agency. - Managed tenders and pitches.
+- As a new business manager for a top 100 advertising company, attended networking events and organised end of projects events to keep employees up to date on company triumphs and losses
+- Attend meetup and networking events weekly to build my software network
+- Brought new business leads to the ad agency. - Managed tenders and pitches.
 
 
 #### This Skill
