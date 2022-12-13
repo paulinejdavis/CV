@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pauline Davis
+## Pauline Davis
 
  [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) 
  </div>
@@ -88,45 +88,45 @@ I enjoy developing and this is the main reason I am pursuing this career path be
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+### Strong communicator
 
--STAR
--What was the situation/task? (ST)
+** Started and sold a cosmetic business at a profit in Notting Hill
+** Attend meetup and networking events weekly to build my software network
+**
 
--How was the skill used?
+### Experienced project manager
 
--What did you do? (action)
-
--What was the result?
+** As a new business manager for a top 100 advertising company, attended networking events and organised end of projects events to keep employees up to date on company triumphs and losses
+** Attend meetup and networking events weekly to build my software network
+** - Brought new business leads to the ad agency. - Managed tenders and pitches.
 
 
 #### This Skill
 
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+-Inflight Productions.
+- Previewed and selected movies from small to large airlines.
+Pearson (Penguin Group)
+- Co-ordinated and managed international design briefs
+and competitor analytics (work travels to Australia, NYC and Cannes).
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Women's Equality Party** ( Feb 2019 to Feb 2021)  
+_Members & Supporters Officer_
+- The db was incomplete containing bad fields, so I came up with
+a plan which included updating and reaching out to members on multi platforms for updates. This was invaluable to the backbone of the party. - Grew members by 2.5 to 5k in 9 months by adjusting mailshots/comms. - A survey showed members were overwhelmed by the volume
+of comms, so I streamlined and re-focussed messaging ensuring more relevant content delivered at more effective times. Executed over multiple platforms, tracking showed increased engagement by 72%.
+- A freelance developer team’s continual ad-hoc changes to the website spiralled monthly costs so I identified and applied source-code fixes
+to update election info and minimise developer fees.
+- During a fundraising evening a record amount for the party was pledged, but due to data privacy issues actual funds had not been actioned. I used the db analytics to target pledges and roll out payment requests which resulted in payments of 10k by close of day.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Aquent** (2010 to 2019)  
+_Freelance Account Manager_
+- For brands: Apple, McDonald's, Nintendo Wii, Blackberry, Virgin
+- Built relationships with key international partners resulting in clients requesting I manage their accounts solely.
+- Partner with data teams to develop social media campaigns
+to increase user time by 4 minutes on websites.
+- Created and managed content across multiple platforms solving PR and radio broadcast challenges with engineering and data solutions.
 
 ## Education
 
