@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pauline Davis
+# Pauline Jennifer Davis
 
  [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) | [![Codewars]](https://www.codewars.com/users/ppjd)
  </div>
@@ -9,7 +9,7 @@ Hiya! I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '
 
 Creating and developing software was never something that I thought would be in my wheel house. However, with lots of hard work I'm inspired to create software that is functional and helps people daily. I am in awe of the posibilities of software engineering to change the everyday and make the impossible possible, This is one of the reasons that I push myself to learn more programming everyday.
 
-I enjoy developing and this is the main reason I am pursuing this career path because I am a committed life long learner. This challenge of self study, courses and attending conferences and tech events and meetups is exciting to me
+I enjoy developing and this is the main reason I am pursuing this career path because I am a committed life long learner. This challenge of self study, courses and attending conferences and tech events and meetups is exciting to me and now my new normal.
 
 ## :grinning:Tech Skills
 
@@ -80,9 +80,9 @@ I enjoy developing and this is the main reason I am pursuing this career path be
 
 | Name     | Description | Technologies|
  |---       |---          |---          |
- | [Friendzone](https://github.com/paulinejdavis/MERNsters-inc) | A social media webapp to help people make new friends. | JavaScript, Node.js, Express, React, MongoDB, HTML5, CSS3, Cypress, Jest |
- | [SpyBook](https://github.com/paulinejdavis/acebook-the-incredibles) | A Facebook clone using Node, Express, MongoDB in a week | JavaScript, Node.js, Express, HTML5, CSS3, Jest, Mongo, Cypress |
- | [MakersBnB](link missing)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL |
+ | [Friendzone](https://github.com/paulinejdavis/MERNsters-inc) | A tinder clone. | JavaScript, Node.js, Express, React, MongoDB, HTML, CSS, Cypress, Jest |
+ | [SpyBook](https://github.com/paulinejdavis/acebook-the-incredibles) | A Facebook clone using Node, Express, MongoDB in a week | JavaScript, Node.js, Express, HTML, CSS, Jest, Mongo, Cypress |
+ | [MakersBnB](https://github.com/paulinejdavis/makersbnb)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL |
 
 
 
