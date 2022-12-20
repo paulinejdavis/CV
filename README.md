@@ -82,7 +82,7 @@ I enjoy developing and this is the main reason I am pursuing this career path be
  |---       |---          |---          |
  | [Friendzone](https://github.com/paulinejdavis/MERNsters-inc) | A tinder clone. | JavaScript, Node.js, Express, React, MongoDB, HTML, CSS, Cypress, Jest | 
  | [SpyBook](https://github.com/paulinejdavis/acebook-the-incredibles) | A Facebook clone using Node, Express, MongoDB in a week | JavaScript, Node.js, Express, HTML, CSS, Jest, Mongo, Cypress |
- | [MakersBnB](https://github.com/paulinejdavis/makersbnb)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL | [Presentation](video1432832641.mp4)
+ | [MakersBnB](https://github.com/paulinejdavis/makersbnb)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL [Presentation](video1432832641.mp4) | 
 
 
 
