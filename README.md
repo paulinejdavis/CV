@@ -97,7 +97,7 @@ In a nutshell, I’ve had a decent-sized career in account management in adverti
 
 #### Communication
 
-Effective communication was essential to my account managing career.  In any fast-paced and constantly evolving environment, it is important to be able to clearly and effectively communicate with clients, project managers and team members. My ability to listen and understand the needs and goals of a project, as well as being able to articulate technical solutions aand ideas to ensure deadlines and schedules are met. As a developer, being clear and concise, practice acting listening, feedback to the team  and using visual aids like my diagrams & design recipes and finding a way to communicate my progress as  integral to the success of the team.
+Effective communication was essential to my account managing career.  In any fast-paced and constantly evolving environment, it is important to be able to clearly and effectively communicate with clients, project managers and team members. My ability to listen and understand the needs and goals of a project, as well as being able to articulate technical solutions and ideas to ensure deadlines and schedules are met. As a developer, being clear and concise, practice acting listening, feedback to the team  and using visual aids like my diagrams & design recipes and finding a way to communicate my progress as  integral to the success of the team.
 
 #### Initiatives
 
@@ -105,11 +105,11 @@ During lockdown and the end of a freelance opportunity I was able to pivot and b
 
 #### Attention to detail
 
-I enjoying paying attention to detail from design elements, like layout, colour scheme and font choices I am detail orientates, and during pairing sessions have helped to spot coding errors quickly and enjoy collaborating to follow coding conventions and standards. Maing your code easier to read and understand for all.
+The crazy deadlines and very public output of the creative industries has taught be the importance of paying attention to details. From design elements, like layouts, colour schemes and font choices was an every day necessity. During pairing sessions I have helped to spot coding errors quickly and enjoy collaborating to follow coding conventions and standards ensuring the code is easier to read and understand for all.
 
 #### Maintaing calm & empathy
 
-Whether dealing with celebritities or brand ambassadors, I communicate confidently and am able to put myself in others circumstance  I am to read the situation and actively listen. In conversation or group discussion, I l definitely practice mindfulness and stay present in the moment and stay calm.
+Whether dealing with celebritities or brand ambassadors, I communicate confidently and am able to put myself in others circumstance  I am to read the situation and actively listen. In conversation or group discussion, I definitely practice mindfulness, stay present in the moment and stay calm.
 
 ## Experience
 
