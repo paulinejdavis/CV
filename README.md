@@ -5,11 +5,17 @@
  [![LinkedIn]](https://www.linkedin.com/in/paulinedavis/) | [![Codewars]](https://www.codewars.com/users/ppjd)
  </div>
 
-Hiya! I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '22 intake)
+Hiya! 👋🏾 I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '22 intake)
 
-Creating and developing software was never something that I thought would be in my wheel house. However, with lots of hard work I'm inspired to create software that is functional and helps people daily. I am in awe of the posibilities of software engineering to change the everyday and make the impossible possible, This is one of the reasons that I push myself to learn more programming everyday.
+My love of creating and developing software has taken me by surprise. What started as an inquisitive little exploration has turned into a passion - not to get to touchy-feely about it. 
 
-I enjoy developing and this is the main reason I am pursuing this career path because I am a committed life long learner. This challenge of self study, courses and attending conferences and tech events and meetups is exciting to me and now my new normal.
+I enjoy developing, this is the main reason I am pursuing this career path. I am a committed life-long learner and this challenge of self-study, courses and attending conferences and tech events is exciting to me and now my new normal. 
+
+I am in awe of the posibilities of software engineering to change the everyday and make peoples’ lives easier. With lots of hard work and learning, I'm inspired to create software that helps people, in profound but also simple or even silly ways. 
+
+Developing involves the collaboration and problem solving elements that I have always loved in my work history but adds a fulfilling creative aspect which I love. The control and the intrinsic need to constantly learn are a big part of that. I like being kept on my toes and solving problems creatively. 
+
+In a nutshell, I’ve had a decent-sized career in account management in advertising and production. In parallel, for a time, I ran a beauty business based in Notting Hill which was and experience! The creative environments I’ve worked in have always been professional and damanding but also fun. I’d want to bring that vibe to any developing task I take on.
 
 ## Tech Stack:octocat:
 ![My Stack](https://skills.thijs.gg/icons?i=js,react,ruby,mongodb,postgres,nodejs,html,css,git,bash,heroku,jest&perline=4&theme=dark)
