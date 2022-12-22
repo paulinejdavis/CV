@@ -11,7 +11,11 @@ Creating and developing software was never something that I thought would be in 
 
 I enjoy developing and this is the main reason I am pursuing this career path because I am a committed life long learner. This challenge of self study, courses and attending conferences and tech events and meetups is exciting to me and now my new normal.
 
-## :grinning:Tech Skills
+## :grinning:Tech Stack
+[![Stack](https://skills.thijs.gg/icons?i=js,react,ruby,html,css,mongodb,nodejs,git)](https://skills.thijs.gg)
+ ![Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,postgres,nodejs,ruby,html,css,jest, git,bash,heroku&perline=4&theme=dark)
+
+## :octocat:Tech Skills
 
 
  <table>
@@ -76,38 +80,34 @@ I enjoy developing and this is the main reason I am pursuing this career path be
    </tbody>
  </table>
 
-## :grinning: Projects
+## :octocat:Projects
 
 | Name     | Description | Technologies|
  |---       |---          |---          |
  | [Friendzone](https://github.com/paulinejdavis/MERNsters-inc) | A tinder clone. | JavaScript, Node.js, Express, React, MongoDB, HTML, CSS, Cypress, Jest | 
  | [SpyBook](https://github.com/paulinejdavis/acebook-the-incredibles) | A Facebook clone using Node, Express, MongoDB in a week | JavaScript, Node.js, Express, HTML, CSS, Jest, Mongo, Cypress |
  | [MakersBnB](https://github.com/paulinejdavis/makersbnb)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL | 
+ | [BankTecnTest](https://github.com/paulinejdavis/bank_tech_test)| A bank tech test | Javascript, Jest | 
 
 
 
-## Skills
+## :octocat:Skills
 
-### Strong communicator
+#### Communication
 
-- Started and sold a cosmetic business at a profit in Notting Hill
-- Attend meetup and networking events weekly to build my software network
+Effective communication was essential to my account managing career.  In any fast-paced and constantly evolving environment, it is important to be able to clearly and effectively communicate with clients, project managers and team members. My ability to listen and understand the needs and goals of a project, as well as being able to articulate technical solutions aand ideas to ensure deadlines and schedules are met. As a developer, being clear and concise, practice acting listening, feedback to the team  and using visual aids like my diagrams & design recipes and finding a way to communicate my progress as  integral to the success of the team.
 
+#### Initiatives
 
-### Experienced project manager
+During lockdown and the end of a freelance opportunity I was able to pivot and brush up my online learning. Studying peer mentoring, conversational French, introduction to ESOL teaching & nutrition. I learnt to rehone my study skills and start my software development career. I also enjoy attending meetup and networking events weekly to build my software network.  This resourcefullness also includes running and selling a cosmetic business at a profit in Notting Hill in 2015.
 
-- As a new business manager for a top 100 advertising company, attended networking events and organised end of projects events to keep employees up to date on company triumphs and losses
-- Attend meetup and networking events weekly to build my software network
-- Brought new business leads to the ad agency. - Managed tenders and pitches.
+#### Attention to detail
 
+I enjoying paying attention to detail from design elements, like layout, colour scheme and font choices I am detail orientates, and during pairing sessions have helped to spot coding errors quickly and enjoy collaborating to follow coding conventions and standards. Maing your code easier to read and understand for all.
 
-#### This Skill
+#### Maintaing calm & empathy
 
--Inflight Productions.
-- Previewed and selected movies from small to large airlines.
-Pearson (Penguin Group)
-- Co-ordinated and managed international design briefs
-and competitor analytics (work travels to Australia, NYC and Cannes).
+Whether dealing with celebritities or brand ambassadors, I communicate confidently and am able to put myself in others circumstance  I am to read the situation and actively listen. In conversation or group discussion, I l definitely practice mindfulness and stay present in the moment and stay calm.
 
 ## Experience
 
@@ -128,34 +128,30 @@ _Freelance Account Manager_
 to increase user time by 4 minutes on websites.
 - Created and managed content across multiple platforms solving PR and radio broadcast challenges with engineering and data solutions.
 
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (August 2022 - December 2022)
+- an intense 16-weeks software development bootcamp
+- Object-oriented design methods including MVC and DDD methods
+- utilising test driven development red, green, refactor approach to programming in RSpec, Jest & Cypress. 
+- Pair programming & agile working methods during all group projects, challenges and assignments
 
-#### Your University / College (start_date to end_date)
+#### Manchester Metropolitan University
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Hons Humanities
+- English & American Studies
+- Completed the second year in Boston
 
-#### Any other qualifications
+## :octocat:Hobbies
 
-That in some arguable way make you a better software developer or well-rounded person
+ - :dancer: A newfound hobby but really loving it. 
+ - :movie_camera: Love all things cinema including foreign films
+ - :dash: I love working out and try to do so everyday
+ - :earth_africa: Like everyone I love travelling in any capacity.
+ - :fork_and_knife: Love discovering new dishes and restaurants
 
-## Hobbies
 
-- **Zumba**: A newfound hobby but really loving it. 
- - **Films**: Love all things cinema including foreign films
- - **Gym time**: I love working out and try to do so everyday
- - **Travel**: Like everyone I love travelling in any capacity.
- - **Foodie**: Love discovering new dishes and restaurants
 
  <!-- Badge Links -->
  [LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
