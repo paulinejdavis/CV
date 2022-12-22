@@ -111,7 +111,7 @@ The crazy deadlines and very public output of the creative industries has taught
 
 Whether dealing with celebritities or brand ambassadors, I communicate confidently and am able to put myself in others circumstance  I am to read the situation and actively listen. In conversation or group discussion, I definitely practice mindfulness, stay present in the moment and stay calm.
 
-## Experience
+## Experience:octocat:
 
 **Women's Equality Party** ( Feb 2019 to Feb 2021)  
 _Members & Supporters Officer_
@@ -131,7 +131,7 @@ to increase user time by 4 minutes on websites.
 - Created and managed content across multiple platforms solving PR and radio broadcast challenges with engineering and data solutions.
 
 
-## Education
+## Education:octocat:
 
 #### Makers Academy (August 2022 - December 2022)
 - an intense 16-weeks software development bootcamp
@@ -145,7 +145,7 @@ to increase user time by 4 minutes on websites.
 - English & American Studies
 - Completed the second year in Boston
 
-## :octocat:Hobbies
+## Hobbies:octocat:
 
  - :dancer: A newfound hobby but really loving it. 
  - :movie_camera: Love all things cinema including foreign films
@@ -158,3 +158,4 @@ to increase user time by 4 minutes on websites.
  <!-- Badge Links -->
  [LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
  [Codewars]: https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
+<!-- add reviews and links -->
