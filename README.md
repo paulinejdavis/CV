@@ -10,11 +10,10 @@ Hiya! I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '
 Creating and developing software was never something that I thought would be in my wheel house. However, with lots of hard work I'm inspired to create software that is functional and helps people daily. I am in awe of the posibilities of software engineering to change the everyday and make the impossible possible, This is one of the reasons that I push myself to learn more programming everyday.
 
 I enjoy developing and this is the main reason I am pursuing this career path because I am a committed life long learner. This challenge of self study, courses and attending conferences and tech events and meetups is exciting to me and now my new normal.
-
-## :grinning:Tech Stack
-[![Stack](https://skills.thijs.gg/icons?i=js,react,ruby,html,css,mongodb,nodejs,git)](https://skills.thijs.gg)
- ![Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,postgres,nodejs,ruby,html,css,jest, git,bash,heroku&perline=4&theme=dark)
-
+<div align="center">
+## :octocat:Tech Stack
+![My Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,postgres,nodejs,ruby,html,css,git,bash,heroku,jest&perline=4&theme=dark)
+ </div>
 ## :octocat:Tech Skills
 
 
