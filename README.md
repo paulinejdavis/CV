@@ -15,7 +15,7 @@ I am in awe of the posibilities of software engineering to change the everyday a
 
 Developing involves the collaboration and problem solving elements that I have always loved in my work history but adds a fulfilling creative aspect which I love. The control and the intrinsic need to constantly learn are a big part of that. I like being kept on my toes and solving problems creatively. 
 
-In a nutshell, I’ve had a decent-sized career in account management in advertising and production. In parallel, for a time, I ran a beauty business based in Notting Hill which was and experience! The creative environments I’ve worked in have always been professional and damanding but also fun. I’d want to bring that vibe to any developing task I take on.
+In a nutshell, I’ve had a decent-sized career in account management in advertising and production. In parallel, for a time, I ran a beauty business based in Notting Hill which was an experience! The creative environments I’ve worked in have always been professional and damanding but also fun. I’d want to bring that vibe to any developing task I take on.
 
 ## Tech Stack:octocat:
 ![My Stack](https://skills.thijs.gg/icons?i=js,react,ruby,mongodb,postgres,nodejs,html,css,git,bash,heroku,jest&perline=4&theme=dark)
@@ -89,7 +89,7 @@ In a nutshell, I’ve had a decent-sized career in account management in adverti
  | [Friendzone](https://github.com/paulinejdavis/MERNsters-inc) | A tinder clone. | JavaScript, Node.js, Express, React, MongoDB, HTML, CSS, Cypress, Jest | 
  | [SpyBook](https://github.com/paulinejdavis/acebook-the-incredibles) | A Facebook clone using Node, Express, MongoDB in a week | JavaScript, Node.js, Express, HTML, CSS, Jest, Mongo, Cypress |
  | [MakersBnB](https://github.com/paulinejdavis/makersbnb)| An AirBnB clone. | Ruby, Rspec, Sinatra, Capybara, CSS, HTML, PostgreSQL | 
- | [BankTecnTest](https://github.com/paulinejdavis/bank_tech_test)| A bank tech test | Javascript, Jest | 
+ | [BankTechTest](https://github.com/paulinejdavis/bank_tech_test)| A bank tech test | Javascript, Jest | 
 
 
 
@@ -101,7 +101,7 @@ Effective communication was essential to my account managing career.  In any fas
 
 #### Initiatives
 
-During lockdown and the end of a freelance opportunity I was able to pivot and brush up my online learning. Studying peer mentoring, conversational French, introduction to ESOL teaching & nutrition. I learnt to rehone my study skills and start my software development career. I also enjoy attending meetup and networking events weekly to build my software network.  This resourcefullness also includes running and selling a cosmetic business at a profit in Notting Hill in 2015.
+During lockdown and the end of a freelance opportunity I was able to pivot and brush up my online learning. Studying peer mentoring, conversational French, introduction to ESOL teaching & nutrition. I learnt to hone my study skills and start my software development career. I also enjoy attending meetup and networking events weekly to build my software network.  This resourcefullness also includes running and selling a cosmetic business at a profit in Notting Hill in 2015.
 
 #### Attention to detail
 
@@ -109,7 +109,7 @@ The crazy deadlines and very public output of the creative industries has taught
 
 #### Maintaing calm & empathy
 
-Whether dealing with celebritities or brand ambassadors, I communicate confidently and am able to put myself in others circumstance  I am to read the situation and actively listen. In conversation or group discussion, I definitely practice mindfulness, stay present in the moment and stay calm.
+Whether dealing with celebritities or brand ambassadors, I communicate confidently and am able to put myself in others circumstance.  I am able to read situations and actively listen. In conversation or group discussion, I definitely practice mindfulness, stay present in the moment and calm.
 
 ## Experience:octocat:
 
