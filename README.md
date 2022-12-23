@@ -7,9 +7,9 @@
 
 Hiya! 👋🏾 I'm Pauline and I am a [Makers Academy](https://makers.tech/) grad (Sept '22 intake)
 
-My love of creating and developing software has taken me by surprise. What started as an inquisitive little exploration has turned into a passion - not to get to touchy-feely about it. 
+My love of creating and developing software has taken me by surprise. What started as an inquisitive little exploration has turned into a passion - not to get too touchy-feely about it. 
 
-I enjoy developing, this is the main reason I am pursuing this career path. I am a committed life-long learner and this challenge of self-study, courses and attending conferences and tech events is exciting to me and now my new normal. 
+I enjoy developing, this is the main reason I am pursuing this career path. I am a committed life-long learner and this challenge of self-study, courses, attending conferences and tech events is exciting to me and now my new normal. 
 
 I am in awe of the posibilities of software engineering to change the everyday and make peoples’ lives easier. With lots of hard work and learning, I'm inspired to create software that helps people, in profound but also simple or even silly ways. 
 
